@@ -1,0 +1,63 @@
+{
+  "yente": [
+    "/images/horses/Yente/Yente_1.jpg",
+    "/images/horses/Yente/Yente_2.jpg",
+    "/images/horses/Yente/Yente_3.jpg",
+    "/images/horses/Yente/Yente_4.jpg"
+  ],
+  "wilco": [
+    "/images/horses/Wilco/Wilco_1.jpg",
+    "/images/horses/Wilco/Wilco_2.jpg",
+    "/images/horses/Wilco/Wilco_3.jpg",
+    "/images/horses/Wilco/Wilco_4.jpg"
+  ],
+  "yde": [
+    "/images/horses/Yde/Yde_1.jpg",
+    "/images/horses/Yde/Yde_2.jpg",
+    "/images/horses/Yde/Yde_3.jpg",
+    "/images/horses/Yde/Yde_4.jpg",
+    "/images/horses/Yde/Yde_5.jpg",
+    "/images/horses/Yde/Yde_6.jpg"
+  ],
+  "xavi": [
+    "/images/horses/Xavi/Xavi_1.jpg",
+    "/images/horses/Xavi/Xavi_2.jpg",
+    "/images/horses/Xavi/Xavi_3.jpg",
+    "/images/horses/Xavi/Xavi_4.jpg",
+    "/images/horses/Xavi/Xavi_5.jpg"
+  ],
+  "aylan": [
+    "/images/horses/Aylan/Aylan_1.jpg",
+    "/images/horses/Aylan/Aylan_2.jpg",
+    "/images/horses/Aylan/Aylan_3.jpg",
+    "/images/horses/Aylan/Aylan_4.jpg",
+    "/images/horses/Aylan/Aylan_5.jpg"
+  ],
+  "ykpe": [
+    "/images/horses/Ykpe/Ykpe_1.jpg",
+    "/images/horses/Ykpe/Ykpe_2.jpg",
+    "/images/horses/Ykpe/Ykpe_3.jpg",
+    "/images/horses/Ykpe/Ykpe_4.jpg",
+    "/images/horses/Ykpe/Ykpe_5.jpg",
+    "/images/horses/Ykpe/Ykpe_6.jpg"
+  ],
+  "theo": [
+    "/images/horses/Theo/Theo_1.jpg",
+    "/images/horses/Theo/Theo_2.jpg",
+    "/images/horses/Theo/Theo_3.jpg",
+    "/images/horses/Theo/Theo_4.jpg"
+  ],
+  "tebbe": [
+    "/images/horses/Tebbe/Tebbe_1.jpg",
+    "/images/horses/Tebbe/Tebbe_2.jpg",
+    "/images/horses/Tebbe/Tebbe_3.jpg",
+    "/images/horses/Tebbe/Tebbe_4.jpg",
+    "/images/horses/Tebbe/Tebbe_5.jpg"
+  ],
+  "ulke": [
+    "/images/horses/Ulke/Ulke_1.jpg",
+    "/images/horses/Ulke/Ulke_2.jpg",
+    "/images/horses/Ulke/Ulke_3.jpg",
+    "/images/horses/Ulke/Ulke_4.jpg"
+  ]
+}

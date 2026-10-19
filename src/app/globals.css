@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+:root {
+  --negro-profundo: #0B0B0B;
+  --negro-carbon: #1A1714;
+  --oro-brillante: #D4AF37;
+  --oro-luz: #F1D27A;
+  --oro-sombra: #B8892B;
+  --crema-calida: #F4EADB;
+  --marfil: #FBF7F0;
+  --cuero: #6B4226;
+  --cuero-claro: #9A6B45;
+  --terroso-arena: #C2A27C;
+  --terroso-oscuro: #3B2A1E;
+
+  --background: #0B0B0B;
+  --foreground: #F4EADB;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-gold: var(--oro-brillante);
+  --color-gold-light: var(--oro-luz);
+  --color-gold-shadow: var(--oro-sombra);
+  --color-carbon: var(--negro-carbon);
+  --color-cream: var(--crema-calida);
+  --color-leather: var(--cuero);
+  
+  --font-serif: 'Cinzel', 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Global Reset & Luxury Aesthetics */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+  background-color: #0B0B0B;
+}
+
+body {
+  background-color: #0B0B0B;
+  color: #F4EADB;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6, .font-serif {
+  font-family: 'Cinzel', 'Cormorant Garamond', Georgia, serif;
+  letter-spacing: 0.02em;
+}
+
+/* Luxury Utilities */
+.gold-gradient-text {
+  background: linear-gradient(135deg, #F1D27A 0%, #D4AF37 50%, #B8892B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-gradient-bg {
+  background: linear-gradient(135deg, #F1D27A 0%, #D4AF37 50%, #B8892B 100%);
+}
+
+.card-luxury {
+  background: #1A1714;
+  border: 1px solid rgba(212, 175, 55, 0.22);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-luxury:hover {
+  border-color: rgba(212, 175, 55, 0.6);
+  transform: translateY(-3px);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.6), 0 0 25px rgba(212, 175, 55, 0.15);
+}
+
+/* Ticker Animation */
+@keyframes tickerAnimation {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-ticker {
+  display: flex;
+  width: max-content;
+  animation: tickerAnimation 32s linear infinite;
+}
+
+.animate-ticker:hover {
+  animation-play-state: paused;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0B0B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2D2721;
+  border-radius: 4px;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out forwards;
+}

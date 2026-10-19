@@ -1,0 +1,1198 @@
+{
+  "horses": [
+    {
+      "id": "horse_yente",
+      "slug": "yente",
+      "name": "Yente",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": true,
+      "birthDate": "2023-05-18",
+      "ageYears": 3,
+      "ageMonths": 4,
+      "height": 1.66,
+      "ownAwards": [
+        "🥇 1er premio",
+        "⭐ Categoría Ster",
+        "Full Paper"
+      ],
+      "sire": "Teun 505 Sport AAA",
+      "grandsire": "Norbert 444 Sport Pref AAA",
+      "dam": "Mila fan Stal Bellefleur (Kroon AA)",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Papá y abuelo triple A: lo más alto del registro holandés. Lo trae en la sangre.",
+        "en": "Sire and grandsire triple A: the highest tier of the Dutch registry. It runs in his blood."
+      },
+      "description": {
+        "es": "Ejemplar macho entero de extraordinaria presencia y porte. Calificado con 1er premio y categoría Ster por los jueces de la KFPS en los Países Bajos. Sus papeles avalan la más selecta sangre holandesa tanto por línea paterna (Teun 505) como materna. Excelente temperamento, nobleza absoluta y gran proyección para baile y alta escuela.",
+        "en": "Exceptional Friesian stallion with commanding presence and nobility. Awarded 1st prize and Ster status by official KFPS judges in the Netherlands. True Full Paper pedigree with Triple A bloodlines."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 920000,
+      "priceUsd": 49000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Yente/Yente_1.jpg",
+          "altEs": "Yente caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Yente Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Yente/Yente_2.jpg",
+          "altEs": "Yente caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Yente Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yente/Yente_3.jpg",
+          "altEs": "Yente caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Yente Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yente/Yente_4.jpg",
+          "altEs": "Yente caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Yente Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Yente/Yente_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_y1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_y2",
+          "name": "Certificado Genealógico KFPS (Full Paper)",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_y3",
+          "name": "Certificado Médico Veterinario y Placas Radiológicas",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "veterinaria",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 1,
+      "chip": "0493",
+      "registrationNumber": "202302602",
+      "vetSummary": {
+        "es": "Apto para deporte, paseo y cabalgata. Flexiones negativas en cuatro miembros. Placas radiológicas limpias sin hallazgos clínicos.",
+        "en": "Sound for exhibition and sport. Clean clinical examination, negative flexions."
+      },
+      "seo": {
+        "titleEs": "Yente · Caballo Frisón Macho Entero Ster Full Paper · Cuadra Imperial Loy",
+        "titleEn": "Yente · Friesian Stallion Ster Full Paper · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Teun 505 Sport AAA y nieto de Norbert 444 Sport Pref AAA. 1er premio y Ster KFPS. Cita privada en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Son of Teun 505 Sport AAA. 1st prize and Ster KFPS. Private visit in Zapotlanejo, Jalisco."
+      },
+      "createdAt": "2026-10-19T00:45:01.777Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_wilco",
+      "slug": "wilco",
+      "name": "Wilco WT fan de Boerdam",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": true,
+      "birthDate": "2023-04-16",
+      "ageYears": 3,
+      "ageMonths": 5,
+      "height": 1.65,
+      "ownAwards": [
+        "⭐ Categoría Ster",
+        "Full Paper"
+      ],
+      "sire": "Tiede 501 Sport AAA",
+      "grandsire": "Alwin 469 Sport Pref AAA",
+      "dam": "Ziba M (Ster)",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Papá y abuelo triple A: lo más alto del registro holandés. Lo trae en la sangre.",
+        "en": "Sire and grandsire triple A: the highest tier of the Dutch registry. It runs in his blood."
+      },
+      "description": {
+        "es": "Macho entero categoría Ster y Full Paper. Hijo directo del legendario Tiede 501 y nieto de Alwin 469 Preferente. Un caballo con una estampa imponente, crin abundante y movimientos armónicos de gran elevación. Ideal para lucir en cabalgatas y eventos de prestigio.",
+        "en": "Friesian stallion Ster predicate and Full Paper. Direct son of Tiede 501 Sport AAA and grandson of Alwin 469 Sport Pref AAA."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 890000,
+      "priceUsd": 47000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Wilco/Wilco_1.jpg",
+          "altEs": "Wilco WT fan de Boerdam caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Wilco WT fan de Boerdam Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Wilco/Wilco_2.jpg",
+          "altEs": "Wilco WT fan de Boerdam caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Wilco WT fan de Boerdam Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Wilco/Wilco_3.jpg",
+          "altEs": "Wilco WT fan de Boerdam caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Wilco WT fan de Boerdam Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Wilco/Wilco_4.jpg",
+          "altEs": "Wilco WT fan de Boerdam caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Wilco WT fan de Boerdam Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Wilco/Wilco_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_w1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_w2",
+          "name": "Certificado Genealógico KFPS (Full Paper)",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_w3",
+          "name": "Dictamen Veterinario Oficial",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "veterinaria",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 2,
+      "chip": "6284",
+      "registrationNumber": "202301998",
+      "vetSummary": {
+        "es": "Excelente condición física. Aparato locomotor sano, radiografías aprobadas sin lesiones ni signos degenerativos.",
+        "en": "Excellent physical condition. Clean veterinary vetting."
+      },
+      "seo": {
+        "titleEs": "Wilco WT fan de Boerdam · Caballo Frisón Ster Full Paper · Cuadra Imperial Loy",
+        "titleEn": "Wilco WT fan de Boerdam · Friesian Stallion Ster · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Tiede 501 Sport AAA y nieto de Alwin 469 Sport Pref AAA. Full Paper. Cita privada en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Son of Tiede 501 Sport AAA. Ster Full Paper. Private appointment in Jalisco."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_yde",
+      "slug": "yde",
+      "name": "Yde fan de Kamp",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": true,
+      "birthDate": "2023-03-31",
+      "ageYears": 3,
+      "ageMonths": 6,
+      "height": 1.72,
+      "ownAwards": [
+        "🥈 Premiado de potro",
+        "Full Paper"
+      ],
+      "sire": "Wolter 513 AA",
+      "grandsire": "Eise 489 Sport-Elite AAA",
+      "dam": "Fopkje fan de Lege Geaën (Ster)",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Su abuelo Sport-Elite triple A. Con 1.72 m a la cruz, una alzada que impone donde se pare.",
+        "en": "Grandsire Sport-Elite triple A. Standing at 1.72 m with imposing stature and reach."
+      },
+      "description": {
+        "es": "Caballo con una alzada fuera de serie: 1.72 m a la cruz con apenas 3 años y medio. Premiado por el jurado holandés de la KFPS. Hijo de Wolter 513 y nieto del célebre Eise 489 Sport-Elite AAA. Un ejemplar mayúsculo para quien busca un caballo alto, con fuerza, presencia arrolladora y trote poderoso.",
+        "en": "Majestic Friesian stallion with extraordinary 1.72 m height. Full Paper with grandson bloodline to Eise 489 Sport-Elite AAA."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 940000,
+      "priceUsd": 50000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Yde/Yde_1.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Yde/Yde_2.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yde/Yde_3.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yde/Yde_4.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yde/Yde_5.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 5",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 5",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Yde/Yde_6.jpg",
+          "altEs": "Yde fan de Kamp caballo frisón Cuadra Imperial Loy foto 6",
+          "altEn": "Yde fan de Kamp Friesian horse Cuadra Imperial Loy photo 6",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Yde/Yde_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_yde1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_yde2",
+          "name": "Certificado Genealógico KFPS (Full Paper)",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_yde3",
+          "name": "Dictamen Veterinario y Placas Radiológicas",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "veterinaria",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 3,
+      "chip": "0814",
+      "registrationNumber": "202301054",
+      "vetSummary": {
+        "es": "Apto para deporte y monta. Gran solidez ósea y aplomos correctos.",
+        "en": "Sound for riding and sport. Strong bone structure and clean flexions."
+      },
+      "seo": {
+        "titleEs": "Yde fan de Kamp · Caballo Frisón 1.72 m KFPS Full Paper · Cuadra Imperial Loy",
+        "titleEn": "Yde fan de Kamp · Friesian Stallion 1.72m KFPS · Cuadra Imperial Loy",
+        "descriptionEs": "Alzada imponente de 1.72 m a la cruz. Nieto de Eise 489 Sport-Elite AAA. Cita privada en Jalisco.",
+        "descriptionEn": "Imposing 1.72 m height at withers. Grandson of Eise 489 Sport-Elite AAA."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_xavi",
+      "slug": "xavi",
+      "name": "Xavi fan Veldzicht",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": true,
+      "birthDate": "2023-03-16",
+      "ageYears": 3,
+      "ageMonths": 6,
+      "height": 1.66,
+      "ownAwards": [
+        "Full Paper"
+      ],
+      "sire": "Wolter 513 AA",
+      "grandsire": "Fabe 348 Sport Pref",
+      "dam": "Tanja fan de Mayhoeve (Kroon Pref AA *5)",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Su abuelo Preferente: sus hijos salen buenos. Sangre de campeones en sus papeles.",
+        "en": "Grandsire Preferent: renowned for passing exceptional quality. Champion blood in his papers."
+      },
+      "description": {
+        "es": "Macho entero con linaje de campeones en su genealogía. Nieto del legendario Fabe 348 Sport Pref e hijo de Wolter 513. Proviene de una madre Kroon Preferente 5 estrellas, lo que certifica una consistencia genética impecable en la raza.",
+        "en": "Select Friesian stallion carrying premier Dutch lines. Grandson of Fabe 348 Sport Pref and out of a 5-star Kroon dam."
+      },
+      "hasMovementVideo": false,
+      "priceMxn": 880000,
+      "priceUsd": 46500,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Xavi/Xavi_1.jpg",
+          "altEs": "Xavi fan Veldzicht caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Xavi fan Veldzicht Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Xavi/Xavi_2.jpg",
+          "altEs": "Xavi fan Veldzicht caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Xavi fan Veldzicht Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Xavi/Xavi_3.jpg",
+          "altEs": "Xavi fan Veldzicht caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Xavi fan Veldzicht Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Xavi/Xavi_4.jpg",
+          "altEs": "Xavi fan Veldzicht caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Xavi fan Veldzicht Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Xavi/Xavi_5.jpg",
+          "altEs": "Xavi fan Veldzicht caballo frisón Cuadra Imperial Loy foto 5",
+          "altEn": "Xavi fan Veldzicht Friesian horse Cuadra Imperial Loy photo 5",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "",
+      "privateDocs": [
+        {
+          "id": "doc_x1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_x2",
+          "name": "Certificado Genealógico KFPS (Full Paper)",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 4,
+      "chip": "5141",
+      "registrationNumber": "202300717",
+      "vetSummary": {
+        "es": "Revisión veterinaria completa aprobada. Sin problemas de aplomos ni vicios de cuadra.",
+        "en": "Full veterinary inspection approved. Sound and healthy."
+      },
+      "seo": {
+        "titleEs": "Xavi fan Veldzicht · Caballo Frisón Full Paper · Cuadra Imperial Loy",
+        "titleEn": "Xavi fan Veldzicht · Friesian Stallion Full Paper · Cuadra Imperial Loy",
+        "descriptionEs": "Nieto de Fabe 348 Sport Pref. Full Paper oficial KFPS. Conozca a Xavi en cita privada en Zapotlanejo.",
+        "descriptionEn": "Grandson of Fabe 348 Sport Pref. Official KFPS Full Paper."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_aylan",
+      "slug": "aylan",
+      "name": "Aylan",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": false,
+      "birthDate": "2024-02-15",
+      "ageYears": 2,
+      "ageMonths": 7,
+      "height": 1.65,
+      "ownAwards": [
+        "🥈 Premiado de potro"
+      ],
+      "sire": "Hilbrand 525 Sport AAA",
+      "grandsire": "Hette 481 Sport AAA",
+      "dam": "Madelief van Schafer",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Papá y abuelo triple A: lo más alto del registro holandés. Apenas 2 años y medio y ya 1.65 m a la cruz. Y le falta crecer.",
+        "en": "Sire and grandsire triple A: the peak of Dutch scoring. Just 2.5 years old and already 1.65 m at withers."
+      },
+      "description": {
+        "es": "Un potro extraordinario con un desarrollo físico asombroso. Con 2 años y 7 meses ya alcanza 1.65 m a la cruz con gran caja torácica y movimientos amplios. Hijo de Hilbrand 525 triple A y nieto de Hette 481 triple A. Premiado de potro por los inspectores de la KFPS.",
+        "en": "Spectacular young Friesian colt. Already 1.65 m at 2.5 years with exceptional bone and movement."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 820000,
+      "priceUsd": 43000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Aylan/Aylan_1.jpg",
+          "altEs": "Aylan caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Aylan Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Aylan/Aylan_2.jpg",
+          "altEs": "Aylan caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Aylan Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Aylan/Aylan_3.jpg",
+          "altEs": "Aylan caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Aylan Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Aylan/Aylan_4.jpg",
+          "altEs": "Aylan caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Aylan Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Aylan/Aylan_5.jpg",
+          "altEs": "Aylan caballo frisón Cuadra Imperial Loy foto 5",
+          "altEn": "Aylan Friesian horse Cuadra Imperial Loy photo 5",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Aylan/Aylan_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_a1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_a2",
+          "name": "Certificado de Registro KFPS",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 5,
+      "chip": "4959",
+      "registrationNumber": "202400235",
+      "vetSummary": {
+        "es": "Potro sano en pleno crecimiento. Óptimo desarrollo músculo-esquelético.",
+        "en": "Healthy growing colt in optimal physical development."
+      },
+      "seo": {
+        "titleEs": "Aylan · Potro Frisón Premiado KFPS · Cuadra Imperial Loy",
+        "titleEn": "Aylan · Young Friesian Colt KFPS · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Hilbrand 525 Sport AAA y nieto de Hette 481 Sport AAA. Cita privada en Jalisco.",
+        "descriptionEn": "Son of Hilbrand 525 Sport AAA and grandson of Hette 481 Sport AAA."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_ykpe",
+      "slug": "ykpe",
+      "name": "Ykpe",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": false,
+      "birthDate": "2023-05-19",
+      "ageYears": 3,
+      "ageMonths": 4,
+      "height": 1.67,
+      "ownAwards": [],
+      "sire": "Pier 448 Sport AA",
+      "grandsire": "Beart 411 Sport Pref",
+      "dam": "Xante",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Hijo de Pier 448 y nieto de Beart 411 Preferente. Porte, nobleza y cadencia natural.",
+        "en": "Son of Pier 448 and grandson of Beart 411 Preferent. Pure nobility and natural rhythm."
+      },
+      "description": {
+        "es": "Caballo con porte clásico, gran abundancia de pelo y temperamento sumamente noble. Nieto de Beart 411 Preferente, uno de los sementales más influyentes en la historia del frisón moderno por transmitir belleza y mansedumbre.",
+        "en": "Classic Friesian stallion with dense mane and feathering, grandson of historic Beart 411 Preferent."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 840000,
+      "priceUsd": 44000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Ykpe/Ykpe_1.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Ykpe/Ykpe_2.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ykpe/Ykpe_3.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ykpe/Ykpe_4.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ykpe/Ykpe_5.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 5",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 5",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ykpe/Ykpe_6.jpg",
+          "altEs": "Ykpe caballo frisón Cuadra Imperial Loy foto 6",
+          "altEn": "Ykpe Friesian horse Cuadra Imperial Loy photo 6",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Ykpe/Ykpe_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_yk1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_yk2",
+          "name": "Certificado de Registro KFPS",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": true,
+      "order": 6,
+      "chip": "0525",
+      "registrationNumber": "202302638",
+      "vetSummary": {
+        "es": "Apto para silla y cabalgatas. Muy manso y dócil al manejo.",
+        "en": "Sound for saddle and pleasure. Very docile and gentle temperament."
+      },
+      "seo": {
+        "titleEs": "Ypke G. · Caballo Frisón KFPS · Cuadra Imperial Loy",
+        "titleEn": "Ypke G. · Friesian Stallion KFPS · Cuadra Imperial Loy",
+        "descriptionEs": "Nieto de Beart 411 Sport Pref. Nobleza y porte en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Grandson of Beart 411 Sport Pref. Nobility and presence."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_theo",
+      "slug": "theo",
+      "name": "Theo",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": false,
+      "birthDate": "2022-05-24",
+      "ageYears": 4,
+      "ageMonths": 4,
+      "height": 1.67,
+      "ownAwards": [
+        "3e premie"
+      ],
+      "sire": "Fonger 478 Sport AAA",
+      "grandsire": "Olgert 445 Sport-Elite AAA",
+      "dam": "Wieteke",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Papá y abuelo triple A y Sport-Elite. Caballo en toda su madurez y porte.",
+        "en": "Sire and grandsire triple A and Sport-Elite. Mature horse with commanding carriage."
+      },
+      "description": {
+        "es": "Macho entero de 4 años, asentado y con gran madurez física y mental. Hijo de Fonger 478 Sport AAA y nieto de Olgert 445 Sport-Elite AAA. Un caballo confiable, de rienda suave y paso seguro, ideal tanto para exhibición como para disfrutar en familia.",
+        "en": "4-year-old mature Friesian stallion by Fonger 478 Sport AAA and grandson of Olgert 445 Sport-Elite AAA."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 870000,
+      "priceUsd": 46000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Theo/Theo_1.jpg",
+          "altEs": "Theo caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Theo Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Theo/Theo_2.jpg",
+          "altEs": "Theo caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Theo Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Theo/Theo_3.jpg",
+          "altEs": "Theo caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Theo Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Theo/Theo_4.jpg",
+          "altEs": "Theo caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Theo Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Theo/Theo_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_th1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_th2",
+          "name": "Certificado KFPS",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": false,
+      "order": 7,
+      "chip": "9303",
+      "registrationNumber": "202202641",
+      "vetSummary": {
+        "es": "Caballo adulto en plena fuerza. Dictamen clínico satisfactorio.",
+        "en": "Mature stallion in full strength. Sound clinical evaluation."
+      },
+      "seo": {
+        "titleEs": "Theo · Caballo Frisón Macho Entero KFPS · Cuadra Imperial Loy",
+        "titleEn": "Theo · Friesian Stallion KFPS · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Fonger 478 Sport AAA. Caballo de 4 años en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Son of Fonger 478 Sport AAA. 4-year-old Friesian stallion."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_tebbe",
+      "slug": "tebbe",
+      "name": "Tebbe",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": false,
+      "birthDate": "2022-05-08",
+      "ageYears": 4,
+      "ageMonths": 4,
+      "height": 1.66,
+      "ownAwards": [],
+      "sire": "Gerben 479 Sport AAA",
+      "grandsire": "Wytse 462 Sport-Elite AAA",
+      "dam": "Anne Anne S",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Hijo de Gerben 479 triple A y nieto de Wytse 462 Sport-Elite. Lo trae en la sangre.",
+        "en": "Son of Gerben 479 triple A and grandson of Wytse 462 Sport-Elite. In his blood."
+      },
+      "description": {
+        "es": "Caballo con una presencia imponente y excelente conformación morfológica. Hijo de Gerben 479 Sport AAA, reconocido semental por transmitir fuerza y cadencia, y nieto de Wytse 462. Listo para trabajar en baile o montar en cabalgatas.",
+        "en": "Stunning Friesian stallion by Gerben 479 Sport AAA and grandson of Wytse 462 Sport-Elite AAA."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 860000,
+      "priceUsd": 45000,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Tebbe/Tebbe_1.jpg",
+          "altEs": "Tebbe caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Tebbe Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Tebbe/Tebbe_2.jpg",
+          "altEs": "Tebbe caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Tebbe Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Tebbe/Tebbe_3.jpg",
+          "altEs": "Tebbe caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Tebbe Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Tebbe/Tebbe_4.jpg",
+          "altEs": "Tebbe caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Tebbe Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Tebbe/Tebbe_5.jpg",
+          "altEs": "Tebbe caballo frisón Cuadra Imperial Loy foto 5",
+          "altEn": "Tebbe Friesian horse Cuadra Imperial Loy photo 5",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Tebbe/Tebbe_Trote_1.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_tb1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_tb2",
+          "name": "Certificado de Registro KFPS",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": false,
+      "order": 8,
+      "chip": "2320",
+      "registrationNumber": "202203577",
+      "vetSummary": {
+        "es": "Revisión general favorable. Dentición, cascos y aplomos en orden.",
+        "en": "Favorable veterinary report. Sound hooves and joints."
+      },
+      "seo": {
+        "titleEs": "Tebbe · Caballo Frisón KFPS · Cuadra Imperial Loy",
+        "titleEn": "Tebbe · Friesian Horse KFPS · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Gerben 479 Sport AAA. Cita privada en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Son of Gerben 479 Sport AAA. Private visit in Jalisco."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    },
+    {
+      "id": "horse_ulke",
+      "slug": "ulke",
+      "name": "Ulke van 't Heidehoefke",
+      "gender": "macho_entero",
+      "type": "venta",
+      "status": "disponible",
+      "fullPaper": false,
+      "birthDate": "2022-04-16",
+      "ageYears": 4,
+      "ageMonths": 5,
+      "height": 1.64,
+      "ownAwards": [],
+      "sire": "Gerben 479 Sport AAA",
+      "grandsire": "Doaitsen 420 Sport",
+      "dam": "Teuntje van 't Heidehoefke",
+      "showDam": false,
+      "lineageTranslation": {
+        "es": "Hijo de Gerben 479 Sport AAA. Caballo noble, ideal para baile y paseo familiar.",
+        "en": "Son of Gerben 479 Sport AAA. Pure nobility, ideal for dance and family trail."
+      },
+      "description": {
+        "es": "Macho entero de 4 años con un carácter ejemplar, dócil y noble. Línea directa de Gerben 479 Sport AAA y Doaitsen 420 Sport. Un caballo con una morfología compacta, crines onduladas y una disposición extraordinaria al aprendizaje de rienda y pasos de baile.",
+        "en": "4-year-old Friesian stallion with extraordinary sweet temperament, by Gerben 479 Sport AAA."
+      },
+      "hasMovementVideo": true,
+      "priceMxn": 850000,
+      "priceUsd": 44500,
+      "showPrice": false,
+      "images": [
+        {
+          "url": "/images/horses/Ulke/Ulke_1.jpg",
+          "altEs": "Ulke van 't Heidehoefke caballo frisón Cuadra Imperial Loy foto 1",
+          "altEn": "Ulke van 't Heidehoefke Friesian horse Cuadra Imperial Loy photo 1",
+          "isPrimary": true
+        },
+        {
+          "url": "/images/horses/Ulke/Ulke_2.jpg",
+          "altEs": "Ulke van 't Heidehoefke caballo frisón Cuadra Imperial Loy foto 2",
+          "altEn": "Ulke van 't Heidehoefke Friesian horse Cuadra Imperial Loy photo 2",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ulke/Ulke_3.jpg",
+          "altEs": "Ulke van 't Heidehoefke caballo frisón Cuadra Imperial Loy foto 3",
+          "altEn": "Ulke van 't Heidehoefke Friesian horse Cuadra Imperial Loy photo 3",
+          "isPrimary": false
+        },
+        {
+          "url": "/images/horses/Ulke/Ulke_4.jpg",
+          "altEs": "Ulke van 't Heidehoefke caballo frisón Cuadra Imperial Loy foto 4",
+          "altEn": "Ulke van 't Heidehoefke Friesian horse Cuadra Imperial Loy photo 4",
+          "isPrimary": false
+        }
+      ],
+      "videoUrl": "/images/horses/Ulke/Ulke_Trote.mp4",
+      "privateDocs": [
+        {
+          "id": "doc_ul1",
+          "name": "Pasaporte Oficial KFPS - Países Bajos",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "pasaporte",
+          "includeInFullPdf": true
+        },
+        {
+          "id": "doc_ul2",
+          "name": "Certificado KFPS",
+          "url": "/brand/Logotipo_Cuadra_Imperial_Loy_isotipo_oro.svg",
+          "type": "kfps",
+          "includeInFullPdf": true
+        }
+      ],
+      "fieldVisibility": {
+        "fullGenealogyInBasic": false,
+        "vetCheckInBasic": false,
+        "chipInBasic": false
+      },
+      "featured": false,
+      "order": 9,
+      "chip": "3634",
+      "registrationNumber": "202201735",
+      "vetSummary": {
+        "es": "Salud impecable. Manso al trato con veterinario y herrador.",
+        "en": "Impeccable health. Gentle with vet and farrier."
+      },
+      "seo": {
+        "titleEs": "Ulke van 't Heidehoefke · Caballo Frisón KFPS · Cuadra Imperial Loy",
+        "titleEn": "Ulke van 't Heidehoefke · Friesian Horse · Cuadra Imperial Loy",
+        "descriptionEs": "Hijo de Gerben 479 Sport AAA. Conozca a Ulke en Zapotlanejo, Jalisco.",
+        "descriptionEn": "Son of Gerben 479 Sport AAA. Private visit in Jalisco."
+      },
+      "createdAt": "2026-10-19T00:45:01.782Z",
+      "updatedAt": "2026-10-19T00:45:01.782Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead_1",
+      "horseId": "horse_tjerk",
+      "horseName": "[EJEMPLO] Tjerk",
+      "fullName": "Don Roberto Garza Elizondo",
+      "whatsapp": "8112345678",
+      "dialCode": "+52",
+      "email": "rgarza@agrogarza.com.mx",
+      "city": "San Pedro Garza García",
+      "state": "Nuevo León",
+      "country": "México",
+      "source": "facebook",
+      "ownsFriesians": true,
+      "interestedInPrivateVisit": true,
+      "message": "Me interesa saber el precio y coordinar visita con mi caballerango para el próximo viernes.",
+      "privacyAccepted": true,
+      "status": "cita_agendada",
+      "assignedTo": "Equipo de Ventas",
+      "internalNotes": "Muy formal. Viene el viernes 24 con su caballerango Don Pedro. Desea verlo bajo montura y bailar.",
+      "language": "es",
+      "utmSource": "facebook_feed",
+      "pdfDownloaded": true,
+      "downloadToken": "tok_demo_1",
+      "tokenExpiresAt": "2026-10-25T12:00:00.000Z",
+      "createdAt": "2026-10-16T15:30:00.000Z",
+      "updatedAt": "2026-10-17T09:00:00.000Z"
+    },
+    {
+      "id": "lead_2",
+      "horseId": "horse_fedde",
+      "horseName": "[EJEMPLO] Fedde",
+      "fullName": "Ing. Alejandro Morales V.",
+      "whatsapp": "3339876543",
+      "dialCode": "+52",
+      "email": "amorales@constructoragdl.com",
+      "city": "Zapopan",
+      "state": "Jalisco",
+      "country": "México",
+      "source": "recomendado",
+      "ownsFriesians": false,
+      "interestedInPrivateVisit": true,
+      "message": "Busco un caballo manso para mi rancho en Tapalpa y pasear con mi esposa.",
+      "privacyAccepted": true,
+      "status": "contactado_whatsapp",
+      "assignedTo": "Equipo de Ventas",
+      "internalNotes": "Se le envió mensaje el mismo día. Le gustó que no sea broker y que los papeles pasen a su nombre.",
+      "language": "es",
+      "utmSource": "whatsapp_direct",
+      "pdfDownloaded": true,
+      "downloadToken": "tok_demo_2",
+      "tokenExpiresAt": "2026-10-25T12:00:00.000Z",
+      "createdAt": "2026-10-17T18:20:00.000Z",
+      "updatedAt": "2026-10-18T10:15:00.000Z"
+    },
+    {
+      "id": "lead_3",
+      "horseId": "horse_ykpe",
+      "horseName": "[EJEMPLO] Ykpe",
+      "fullName": "Marcus Vance",
+      "whatsapp": "7135550192",
+      "dialCode": "+1",
+      "email": "mvance@texasequestrian.com",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "Estados Unidos",
+      "source": "instagram",
+      "ownsFriesians": true,
+      "interestedInPrivateVisit": false,
+      "message": "Inquiring about frozen semen shipping to Texas and quarantine procedures.",
+      "privacyAccepted": true,
+      "status": "nuevo",
+      "assignedTo": "Dirección General",
+      "internalNotes": "Pregunta por trámites zoosanitarios para envío a EE. UU. Requiere respuesta en inglés.",
+      "language": "en",
+      "utmSource": "instagram_reels",
+      "pdfDownloaded": false,
+      "downloadToken": "tok_demo_3",
+      "tokenExpiresAt": "2026-10-25T12:00:00.000Z",
+      "createdAt": "2026-10-18T14:45:00.000Z",
+      "updatedAt": "2026-10-18T14:45:00.000Z"
+    }
+  ],
+  "globals": {
+    "intro": {
+      "enabled": false,
+      "videoUrl": "/images/horses/Yente/Yente_Trote.mp4",
+      "posterUrl": "/images/horses/Yente/Yente_1.jpg",
+      "maxSeconds": 4
+    },
+    "hero": {
+      "titleEs": "Caballos frisones selectos uno por uno en Holanda.",
+      "titleEn": "Friesian horses selected one by one in the Netherlands.",
+      "subtitleEs": "Recibe su caballo sano y con papeles de origen.",
+      "subtitleEn": "Receive your horse sound and with certified origin papers.",
+      "videoUrl": "/images/horses/Yente/Yente_Trote.mp4",
+      "posterUrl": "/images/horses/Yente/Yente_1.jpg"
+    },
+    "differentiators": [
+      {
+        "id": "diff_1",
+        "number": "01",
+        "titleEs": "Cita privada",
+        "titleEn": "Private visit",
+        "descEs": "Solo usted, su gente y los caballos, sin presión. Su caballerango siempre es bienvenido para revisar aplomos, temperamento y papeles con toda calma.",
+        "descEn": "Only you, your people, and the horses, with zero pressure. Your stablemaster is always welcome to inspect conformation, temperament, and papers.",
+        "quoteEs": "El que sabe de caballos lo nota en persona y sin prisas.",
+        "quoteEn": "A true horseman recognizes quality in person, without haste.",
+        "image": "/images/horses/Yde/Yde_1.jpg"
+      },
+      {
+        "id": "diff_2",
+        "number": "02",
+        "titleEs": "Selectos uno por uno en Holanda",
+        "titleEn": "Selected one by one in the Netherlands",
+        "descEs": "No traemos caballos de lote. Cada ejemplar fue revisado y elegido en los establos holandeses por su estampa, nobleza y aptitudes naturales.",
+        "descEn": "We never import batches. Every horse was evaluated and selected across Dutch stables for its presence, nobility, and natural mechanics.",
+        "quoteEs": "Pocos caballos, pero cada uno con su valor y su porte comprobado.",
+        "quoteEn": "Few horses, but each with proven stature and genuine quality.",
+        "image": "/images/horses/Yente/Yente_1.jpg"
+      },
+      {
+        "id": "diff_3",
+        "number": "03",
+        "titleEs": "Trato directo con la cuadra",
+        "titleEn": "Direct relationship with the stable",
+        "descEs": "Los caballos son de Cuadra Imperial Loy. Habla con quienes los conocen, los han trabajado y saben de dónde vienen.",
+        "descEn": "The horses belong to Cuadra Imperial Loy. You speak directly with the horsemen who know their training, lineage, and character.",
+        "quoteEs": "Trato directo, claro y con el caballo enfrente.",
+        "quoteEn": "Direct, transparent communication with the horse right in front of you.",
+        "image": "/images/horses/Wilco/Wilco_1.jpg"
+      },
+      {
+        "id": "diff_4",
+        "number": "04",
+        "titleEs": "Garantía de salud y origen",
+        "titleEn": "Health and origin guarantee",
+        "descEs": "Recibe su caballo sano y con papeles de origen. Pasaporte europeo KFPS original, lectura de microchip presencial y documentación formal a su nombre.",
+        "descEn": "Receive your horse sound and with certified origin papers. Original European KFPS passport, live microchip scanning, and documentation transferable to your name.",
+        "quoteEs": "Lo que se dice es lo que avala el papel y lo que ve el veterinario.",
+        "quoteEn": "What is stated is what the official registry confirms and what your veterinarian sees.",
+        "image": "/images/horses/Aylan/Aylan_1.jpg"
+      }
+    ],
+    "ticker": {
+      "itemsEs": [
+        "Registrados en la KFPS 🇳🇱",
+        "Selectos uno por uno en Holanda",
+        "Cita privada en Jalisco",
+        "Papeles que pasan a su nombre",
+        "Envíos a todo México, EE. UU. y América Latina",
+        "Su caballerango siempre es bienvenido"
+      ],
+      "itemsEn": [
+        "Registered with KFPS 🇳🇱",
+        "Selected one by one in the Netherlands",
+        "Private visit in Jalisco",
+        "Official registry transfer directly to your name",
+        "Worldwide shipping: Mexico, USA & Latin America",
+        "Your stablemaster is always welcome"
+      ]
+    },
+    "privateVisit": {
+      "location": "Zapotlanejo, Jalisco",
+      "timeFromGdl": "A 38 minutos de Guadalajara",
+      "address": "Zapotlanejo, Jalisco, México · Carretera Libre a Zapotlanejo",
+      "descEs": "Las puertas de Cuadra Imperial Loy están abiertas para usted y su equipo. Agendamos visitas individuales para que pueda ver montar, bailar y convivir con cada ejemplar en un ambiente de absoluta privacidad y respeto.",
+      "descEn": "The gates of Cuadra Imperial Loy are open for you and your inner circle. We schedule exclusive private visits so you can evaluate each horse under saddle and in hand with total peace of mind.",
+      "image": "/images/horses/Yde/Yde_1.jpg"
+    },
+    "shipping": {
+      "textEs": "Coordinamos la logística de traslado de su caballo frisón a cualquier estado de la República Mexicana, Estados Unidos y países de América Latina con transportistas certificados en bienestar equino, seguro de viaje y todos los trámites zoosanitarios y de aduana en regla.",
+      "textEn": "We handle specialized equine transport for your Friesian horse across Mexico, the United States, and Latin America with certified equine logistics, transit insurance, and all USDA / SENASICA sanitary permits up to date.",
+      "destinationsEs": [
+        "Jalisco y Bajío",
+        "Monterrey y Norte",
+        "CDMX y Centro",
+        "Estados Unidos (USA)",
+        "América Latina"
+      ],
+      "destinationsEn": [
+        "Jalisco & Bajio",
+        "Monterrey & Northern Mexico",
+        "Mexico City & Central",
+        "United States (USA)",
+        "Latin America"
+      ]
+    },
+    "faqs": [
+      {
+        "id": "faq_1",
+        "questionEs": "¿Qué incluye la compra de un caballo en Cuadra Imperial Loy?",
+        "questionEn": "What is included when acquiring a horse from Cuadra Imperial Loy?",
+        "answerEs": "Recibe su caballo sano y con papeles de origen: pasaporte oficial de la KFPS (Países Bajos), registro genealógico oficial que se transfiere a su nombre, microchip implantado verificado, revisión veterinaria completa previa a la entrega y asesoría para su adaptación.",
+        "answerEn": "You receive your horse sound and with certified origin papers: official KFPS passport (Netherlands), official pedigree certificate transferred to your name, verified microchip, complete veterinary soundness check, and guidance for acclimation."
+      },
+      {
+        "id": "faq_2",
+        "questionEs": "¿Por qué no publican el precio de todos los caballos en el sitio?",
+        "questionEn": "Why are prices shared primarily via private inquiry?",
+        "answerEs": "Por privacidad y respeto a nuestros clientes. En el primer mensaje de WhatsApp le compartimos el precio exacto, sin rodeos y el mismo para todos los interesados. No manejamos precios inflados ni regateos.",
+        "answerEn": "Out of privacy and discretion for our clientele. Upon your first WhatsApp message we provide the exact, transparent price—consistent for every client, with zero artificial inflation."
+      },
+      {
+        "id": "faq_3",
+        "questionEs": "¿Puedo llevar a mi caballerango o a mi veterinario a la cita privada?",
+        "questionEn": "May I bring my trainer, stablemaster, or veterinarian to the private visit?",
+        "answerEs": "Por supuesto. Su caballerango y su médico veterinario son siempre bienvenidos. Nos interesa que quien cuida y monta sus caballos lo revise a detalle: aplomos, boca, temperamento y papeles en mano.",
+        "answerEn": "Absolutely. Your stablemaster, trainer, and veterinarian are always welcome. We want the professionals who care for your horses to inspect conformation, teeth, movement, and paperwork in hand."
+      },
+      {
+        "id": "faq_4",
+        "questionEs": "¿Qué significa que un caballo esté registrado en la KFPS?",
+        "questionEn": "What does it mean for a horse to be registered with the KFPS?",
+        "answerEs": "La Koninklijke Vereniging Het Friesch Paarden-Stamboek (KFPS) es la asociación madre de la raza frisona en Holanda desde 1879. Un registro KFPS certifica que el caballo es 100% de raza pura, con ADN verificado y ascendencia rigurosamente inspeccionada.",
+        "answerEn": "The KFPS (Royal Friesian Studbook) has guarded the breed in the Netherlands since 1879. KFPS registration certifies 100% purebred lineage, DNA parentage verification, and official Dutch inspection scores."
+      },
+      {
+        "id": "faq_5",
+        "questionEs": "¿Cómo se coordinan los envíos a otros estados o a Estados Unidos?",
+        "questionEn": "How are shipments handled to other Mexican states or the United States?",
+        "answerEs": "Trabajamos con choferes y empresas de remolques climatizados especializados en caballos de alto valor. Nos encargamos del certificado zoosanitario de movilización, pruebas de anemia infecciosa y cuarentena según el destino.",
+        "answerEn": "We partner with premier climate-controlled equine transporters. We manage the official sanitary mobilization permits, Coggins tests, and border clearance protocols tailored to your destination."
+      }
+    ],
+    "contact": {
+      "phone": "+52 33 1702 6066",
+      "whatsappNumber": "523317026066",
+      "whatsappFormatted": "+52 33 1702 6066",
+      "whatsappPreFilledEs": "Hola, me comunico desde el sitio web de Cuadra Imperial Loy. Quisiera información sobre sus caballos frisones.",
+      "whatsappPreFilledEn": "Hello, I am contacting you from the Cuadra Imperial Loy website. I would like information regarding your Friesian horses.",
+      "facebookUrl": "https://www.facebook.com/CuadraImperialLoy",
+      "instagramUrl": "https://www.instagram.com/cuadraimperialloy",
+      "tiktokUrl": "https://www.tiktok.com/@cuadraimperialloy",
+      "location": "Zapotlanejo, Jalisco, México (A 38 minutos de Guadalajara)",
+      "notificationEmail": "info@cuadraimperialloy.com"
+    },
+    "privacyPolicy": {
+      "es": "Cuadra Imperial Loy, con sede en Zapotlanejo, Jalisco, es responsable del tratamiento legítimo y confidencial de sus datos personales conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP). Sus datos de contacto son utilizados única y exclusivamente para enviarle la información técnica solicitada sobre nuestros caballos frisones, coordinar citas privadas en nuestras instalaciones y brindarle atención personalizada vía WhatsApp o correo electrónico. En ningún momento transferimos, comercializamos ni compartimos sus datos con terceros sin su consentimiento expreso.",
+      "en": "Cuadra Imperial Loy, headquartered in Zapotlanejo, Jalisco, Mexico, is responsible for the confidential handling of personal data in compliance with the Mexican Federal Law on Protection of Personal Data (LFPDPPP). Your contact details are collected strictly to send requested equine documents, schedule private viewings, and provide one-on-one assistance. We do not sell or disclose your information to any third parties."
+    },
+    "terms": {
+      "es": "Las visitas a las instalaciones de Cuadra Imperial Loy se realizan exclusivamente mediante cita privada previamente confirmada por nuestro equipo de atención. Los ejemplares presentados están sujetos a disponibilidad al momento de formalizar la intención de compra. Cada ejemplar se entrega con su documentación original expedida por la KFPS y la revisión veterinaria correspondiente.",
+      "en": "Visits to Cuadra Imperial Loy facilities are conducted strictly via pre-confirmed private appointment. All horses displayed are subject to prior sale. Each horse is delivered with official Dutch KFPS documentation and comprehensive pre-purchase veterinary records."
+    }
+  },
+  "users": [
+    {
+      "id": "user_admin",
+      "username": "admin",
+      "name": "Dirección General",
+      "role": "Administrador",
+      "email": "info@cuadraimperialloy.com"
+    },
+    {
+      "id": "user_editor",
+      "username": "editor",
+      "name": "Equipo Editorial & Contenido",
+      "role": "Editor",
+      "email": "info@cuadraimperialloy.com"
+    },
+    {
+      "id": "user_ventas",
+      "username": "ventas",
+      "name": "Atención a Clientes & Citas",
+      "role": "Ventas",
+      "email": "info@cuadraimperialloy.com"
+    }
+  ]
+}
